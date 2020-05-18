@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.niupi.lw</groupId>
-  <artifactId>luowen-redission-spring-boot-starter</artifactId>
+  <artifactId>luowen-redisson-spring-boot-starter</artifactId>
   <version>1.0.0</version>
 
   <name>redission-spring-boot-starter</name>
