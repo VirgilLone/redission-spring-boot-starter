@@ -1,0 +1,26 @@
+{
+  "properties": [
+    {
+      "name": "com.niupi.redisson.host",
+      "type": "java.lang.String",
+      "description": "redis服务器的地址.",
+      "defaultValue": "localhost"
+    },
+    {
+      "name": "com.niupi.redisson.port",
+      "type": "java.lang.Integer",
+      "description":  "redis服务器端口.",
+      "defaultValue": "6379"
+    },
+    {
+      "name": "com.niupi.redisson.timeout",
+      "type": "java.lang.Integer",
+      "description": "redis超时时间.",
+      "defaultValue": "0"
+    }
+
+
+  ]
+
+
+}
